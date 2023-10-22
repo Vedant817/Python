@@ -1,5 +1,5 @@
 # Python
-This Repository contains various programs regarding the Basic Topics of Python which are required for learning various technologies using Python.
+This Repository contains various programs regarding the Basic Topics of Python, which are essential for learning various Python technologies.
 # Resources
 
  - ## [Documentation](https://www.python.org/)
